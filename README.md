@@ -1,4 +1,3 @@
-# personal_site
-Portolio site
+# Portolio
 
 [Live Link](https://manjoeso.github.io/personal_site/)
